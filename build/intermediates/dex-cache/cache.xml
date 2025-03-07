@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\aafolabi\Desktop\ALLAPPs\NextGenGI_updated\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\aafolabi\Desktop\ALLAPPs\NextGenGI_updated\app\build\intermediates\pre-dexed\debug\classes-9770d0d7a9b92c1deca14984169739223ac3b17d.jar" />
+    </item>
+    <item
+        jar="C:\Users\aafolabi\Desktop\ALLAPPs\NextGenGI_updated\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\aafolabi\Desktop\ALLAPPs\NextGenGI_updated\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-31c26dac9dc569d44d5defcdf61125780fe9980a.jar" />
+    </item>
+    <item
+        jar="C:\Users\aafolabi\Desktop\ALLAPPs\NextGenGI_updated\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\aafolabi\Desktop\ALLAPPs\NextGenGI_updated\app\build\intermediates\pre-dexed\debug\classes-6c723a5e4597a74d8b9e12431a68cb9e0226e95a.jar" />
+    </item>
+    <item
+        jar="C:\Users\aafolabi\Desktop\ALLAPPs\NextGenGI_updated\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="C:\Users\aafolabi\Desktop\ALLAPPs\NextGenGI_updated\app\build\intermediates\pre-dexed\debug\classes-104446788767eb6d4441fe6acf389dfb19aad69e.jar" />
+    </item>
+    <item
+        jar="C:\Users\aafolabi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\aafolabi\Desktop\ALLAPPs\NextGenGI_updated\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-18ffcc52cb7176d11b3a1ba66f1e8cb2a758d356.jar" />
+    </item>
+
+</items>
